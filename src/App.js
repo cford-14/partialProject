@@ -1,24 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { Banner } from './banner/Banner'
+import { Body } from './body/Body';
 
 function App() {
   return (
+    <div>
+      <head>
+          <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css"/>
+          <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+          <script src="semantic/dist/semantic.min.js"></script>
+      </head>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Banner />
+      <Body />
+    </div>
     </div>
   );
 }
