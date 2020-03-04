@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/partialProject/static/css/main.b76cc89a.chunk.css",
+    "main.js": "/partialProject/static/js/main.f96b0e9c.chunk.js",
+    "main.js.map": "/partialProject/static/js/main.f96b0e9c.chunk.js.map",
+    "runtime-main.js": "/partialProject/static/js/runtime-main.f6c84947.js",
+    "runtime-main.js.map": "/partialProject/static/js/runtime-main.f6c84947.js.map",
+    "static/js/2.d0d8c1c8.chunk.js": "/partialProject/static/js/2.d0d8c1c8.chunk.js",
+    "static/js/2.d0d8c1c8.chunk.js.map": "/partialProject/static/js/2.d0d8c1c8.chunk.js.map",
+    "index.html": "/partialProject/index.html",
+    "precache-manifest.85dba7469a20b5313c564039f2a77c67.js": "/partialProject/precache-manifest.85dba7469a20b5313c564039f2a77c67.js",
+    "service-worker.js": "/partialProject/service-worker.js",
+    "static/css/main.b76cc89a.chunk.css.map": "/partialProject/static/css/main.b76cc89a.chunk.css.map",
+    "static/js/2.d0d8c1c8.chunk.js.LICENSE.txt": "/partialProject/static/js/2.d0d8c1c8.chunk.js.LICENSE.txt",
+    "static/media/storefront.jpg": "/partialProject/static/media/storefront.b6c042b7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6c84947.js",
+    "static/js/2.d0d8c1c8.chunk.js",
+    "static/css/main.b76cc89a.chunk.css",
+    "static/js/main.f96b0e9c.chunk.js"
+  ]
+}
